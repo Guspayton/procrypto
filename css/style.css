@@ -1,0 +1,97 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 70px;
+  background-color: #e4f9f5;
+}
+
+.giphy {
+  border-radius: 100%;
+  width: 400px;
+  height: 400px;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 2rem;
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+}
+h2 {
+  color: #66bfbf;
+  font-family: 'Sacramento', cursive;
+  margin: 100px auto 50px;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+}
+hr{
+  border: 4px dotted #eaf4f4;
+  border-bottom: none;
+  margin-top: 20px;
+  max-width: 32%;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.profile {
+  margin: auto;
+  width: 30%;
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+.zone {
+  border: 1px solid #e52883;
+  float: left;
+  margin-right: 30px;
+}
+
+.tea {
+  border: 1px solid #582012;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.button {
+  margin-top: 50px;
+}
+.btn, .footer-link {
+  background: #11cdd4;
+  text-decoration: none;
+  padding: 10px;
+  font-size: .8rem;
+  border-radius: 10px;
+  color: #fff;
+}
+.btn, .footer-link:hover {
+  background: #11dcdd;
+}
+.links {
+  margin-bottom: 3%;
+}
+.bottom-container {
+  background: #defddd;
+  padding: 40px 20px 5px;
+}
